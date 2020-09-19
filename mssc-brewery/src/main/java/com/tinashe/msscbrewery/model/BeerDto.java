@@ -1,4 +1,4 @@
-package com.tinashe.msscbrewery.webmodel;
+package com.tinashe.msscbrewery.model;
 
 import java.util.UUID;
 
