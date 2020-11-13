@@ -4,7 +4,6 @@ import java.util.UUID;
 
 import org.springframework.stereotype.Service;
 
-import com.tinashe.msscbrewery.model.BeerDto;
 import com.tinashe.msscbrewery.model.CustomerDto;
 
 @Service
